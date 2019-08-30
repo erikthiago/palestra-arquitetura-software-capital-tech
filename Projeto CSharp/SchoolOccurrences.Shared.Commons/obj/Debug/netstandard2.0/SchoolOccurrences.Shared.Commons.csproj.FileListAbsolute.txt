@@ -1,0 +1,13 @@
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\bin\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.deps.json
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\bin\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\bin\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.csprojAssemblyReference.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.Resources.Messages.OccurrenceMessages.resources
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.Resources.Messages.SharedMessages.resources
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.Resources.Messages.StudentMessages.resources
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.csproj.GenerateResource.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.csproj.CoreCompileInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.AssemblyInfoInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.AssemblyInfo.cs
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.Shared.Commons\obj\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.pdb

@@ -1,0 +1,12 @@
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\bin\Debug\netstandard2.0\SchoolOccurrences.School.Domain.deps.json
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\bin\Debug\netstandard2.0\SchoolOccurrences.School.Domain.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\bin\Debug\netstandard2.0\SchoolOccurrences.School.Domain.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\bin\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\bin\Debug\netstandard2.0\SchoolOccurrences.Shared.Commons.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.csprojAssemblyReference.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.csproj.CoreCompileInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.AssemblyInfoInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.AssemblyInfo.cs
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.csproj.CopyComplete
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Domain\obj\Debug\netstandard2.0\SchoolOccurrences.School.Domain.pdb

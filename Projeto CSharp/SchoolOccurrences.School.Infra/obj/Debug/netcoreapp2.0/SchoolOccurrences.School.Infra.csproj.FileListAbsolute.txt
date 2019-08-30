@@ -1,0 +1,14 @@
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.deps.json
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.School.Domain.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.Shared.Commons.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.School.Domain.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\bin\Debug\netcoreapp2.0\SchoolOccurrences.Shared.Commons.pdb
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.csprojAssemblyReference.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.csproj.CoreCompileInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.AssemblyInfoInputs.cache
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.AssemblyInfo.cs
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.csproj.CopyComplete
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.dll
+D:\Estudos\Projetos\SchoolOccurrences\SchoolOccurrences.School.Infra\obj\Debug\netcoreapp2.0\SchoolOccurrences.School.Infra.pdb
